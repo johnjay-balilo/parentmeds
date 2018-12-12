@@ -21,6 +21,7 @@ footer {
 	position: absolute;
 	bottom: 0px;
 	background-image: linear-gradient(blanchedalmond, sienna);
+	font-size: 0.8em;
 
 }
 
@@ -59,13 +60,9 @@ footer .col-2 {
 	color: white;
 }
 
-/*content*/
-.content-image {
-	height: 20em;
-	float: left;
-	margin: 10px;
-}
-
-#content-box {
-	padding: 10px;
+td,
+th {
+	border: 1px solid black;
+	padding: 5px;
+	top: 0px;
 }

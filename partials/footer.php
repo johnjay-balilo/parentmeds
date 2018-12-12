@@ -12,9 +12,8 @@
 
 			</div>
 
-			<div class="col-2">
-				
-				<a href="#nav"> Back to Top </a>
+			<div class="col-2">				
+				<a href="#nav"> ↑↑↑↑ </a>
 			</div>
 
 		</div>
